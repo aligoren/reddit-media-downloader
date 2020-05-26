@@ -1,0 +1,30 @@
+{
+  "name": "reddit-media-downloader",
+  "version": "1.0.0",
+  "description": "Reddit Media Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligoren/reddit-media-downloader.git"
+  },
+  "keywords": [
+    "reddit",
+    "download",
+    "media",
+    "video",
+    "image",
+    "downloader"
+  ],
+  "author": "Ali GOREN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligoren/reddit-media-downloader/issues"
+  },
+  "homepage": "https://github.com/aligoren/reddit-media-downloader#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
